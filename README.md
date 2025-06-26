@@ -1,6 +1,6 @@
 ### 👋 Hello World, I'm Sumbul Khan!
 
-💻 Aspiring Full Stack Developer | 📱 Android Learner | 🌐 Web Enthusiast | 🧪 Manual & Automation Tester  
+💻 Aspiring Full Stack Developer | 📱 Android Learner | 🌐 Web Enthusiast | 🧪 Manual & Automation Tester 
 🌟 Passionate about turning ideas into real-world applications using modern technologies.
 
 ---
