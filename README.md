@@ -1,30 +1,27 @@
-### 👋 Hey there, I'm Sumbul Khan!
+# Hey there, I'm Sumbul 👋
 
-💻 Aspiring Full Stack Developer | 📱 Android Learner | 🌐 Web Enthusiast | 🧪 Manual & Automation Tester 
-🌟 Passionate about turning ideas into real-world applications using modern technologies.
+🎯 A passionate **Frontend Developer** on a mission to turn ideas into interactive, user-friendly web experiences.  
 
----
-
-### 🚀 About Me
-
-I'm a self-motivated learner with a passion for building user-friendly and impactful digital experiences. 
-I love coding not just as a skill, but as a way to **solve real problems** and bring my creativity to life.
-Whether it's building a real-time web app, deploying cloud-based systems,
-or writing clean frontend code — I'm always excited to learn and grow! 🌱
-
-Apart from coding, I enjoy:
-- 🍳 Cooking (and experimenting with recipes!)
-- 🎤 Singing (music is my soul language)
-- 🎧 Listening to music while I code
-- 📖 Reading Shayari that speaks to the heart 💕
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 💻 What I Do
 
-```javascript
-Languages:   HTML • CSS • JavaScript • Java • Python • SQL  
-Frameworks:  ReactJS • Node.js • Express • Bootstrap • Tailwind  
-Testing:     Selenium • Manual Testing • Postman  
-Database:    MongoDB • MySQL  
-Tools:       Git • GitHub • VS Code • Render • Netlify  
+- 🌐 Build responsive websites with **HTML, CSS, JavaScript**
+- ⚛️ Create dynamic UIs using **React.js**
+- 🎨 Style interfaces with **Tailwind CSS & Bootstrap**
+- 🔗 Integrate APIs for real-time data interaction
+- 🚀 Deploy projects on **Netlify**, **Render**, and **GitHub Pages**
+
+---
+
+
+## 🧠 Skills
+
+```text
+💻 Languages:      HTML5 • CSS3 • JavaScript (ES6+)
+⚛️ Libraries/Tools: React.js • Tailwind CSS • Bootstrap • Git & GitHub
+🌍 Concepts:        Responsive Design • REST APIs • DOM Manipulation
+📦 Soft Skills:     Curiosity • Consistency • Creativity
+
+
