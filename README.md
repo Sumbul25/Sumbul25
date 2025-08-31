@@ -1,7 +1,7 @@
 # Hey there, I'm Sumbul 👋
 
-🎯 A passionate **Frontend Developer** on a mission to turn ideas into interactive, user-friendly web experiences.  
-
+🎯 A passionate **MERN Stack Developer** who loves building scalable, user-friendly, and impactful web applications.  
+Always eager to learn, explore new technologies, and grow as a developer 🚀.
 
 ---
 
@@ -16,12 +16,15 @@
 ---
 
 
-## 🧠 Skills
+---
 
-```text
-💻 Languages:      HTML5 • CSS3 • JavaScript (ES6+)
-⚛️ Libraries/Tools: React.js • Tailwind CSS • Bootstrap • Git & GitHub
-🌍 Concepts:        Responsive Design • REST APIs • DOM Manipulation
-📦 Soft Skills:     Curiosity • Consistency • Creativity
+## 🚀 Tech Stack  
 
+- **Frontend:** React.js, Redux, HTML5, CSS3, JavaScript (ES6+), TailwindCSS, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL  
+- **Database:** MongoDB, Mongoose  
+- **Other Tools:** Git, GitHub, Postman, JWT Authentication  
+- **Deployment:** Vercel, Netlify, Render, Railway  
+
+---
 
